@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Open+Sans:300,400,400i,600,700,700i');
+@import url('https://fonts.googleapis.com/css)family=Montserrat:400,600,700|Open+Sans:300,400,400i,600,700,700i');
 @import '../libs/bootstrap-4.1.0/bootstrap.min.css';
 @import '../libs/jquery.magnific-popup/magnific-popup.css';
 @import '../libs/owlcarousel2-2.3.4/assets/owl.carousel.min.css';
@@ -1308,6 +1308,7 @@ form .filed_form textarea:-moz-placeholder {
 .team_card_item_name {
   text-align: center;
   margin-top: 27px;
+  margin: auto;
   font-family: 'Montserrat', sans-serif;
   line-height: 1;
 }
